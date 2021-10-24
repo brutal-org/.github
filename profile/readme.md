@@ -18,7 +18,6 @@
 <br/>
 
 <p align="center">
-    -
     <a href="https://github.com/brutal-org/brutal/">
         Brutal repository
     </a>
@@ -26,7 +25,6 @@
     <a href="https://brutal-org.netlify.app/">
         Website 
     </a>
-    - 
 </p>
 
 <br/>
