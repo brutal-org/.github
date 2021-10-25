@@ -22,7 +22,7 @@
         Brutal repository
     </a>
     - 
-    <a href="https://brutal-org.netlify.app/">
+    <a href="https://brutal.smnx.sh/">
         Website 
     </a>
 </p>
