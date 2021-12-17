@@ -10,8 +10,9 @@
 <br/>
 
 <p align="center">
-  Striking modernist shapes and bold use of modern C are the hallmarks of <b>BRUTAL</b>.<br>
-  Inspired by brutalist design <b>BRUTAL</b> combines the ideals of UNIX from the 1970s<br> with modern technology and engineering.
+  Striking modernist shapes and bold use of modern C are the hallmarks of BRUTAL.
+  Inspired by brutalist design BRUTAL combines the ideals of UNIX from the 1970s
+  with modern technology and engineering.
 </p>
 
 <br/>
