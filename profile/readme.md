@@ -26,6 +26,10 @@
     <a href="https://brutal.smnx.sh/">
         Website 
     </a>
+    - 
+    <a href="https://discord.com/invite/gamGsfg">
+        Discord 
+    </a>
 </p>
 
 <br/>
